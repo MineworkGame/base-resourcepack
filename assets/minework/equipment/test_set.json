@@ -1,10 +1,10 @@
 {
     "layers": {
       "humanoid": [
-        { "texture": "minecraft:test_set" }
+        { "texture": "minework:test_set" }
       ],
       "humanoid_leggings": [
-        { "texture": "minecraft:test_set" }
+        { "texture": "minework:test_set" }
       ]
     }
   }
