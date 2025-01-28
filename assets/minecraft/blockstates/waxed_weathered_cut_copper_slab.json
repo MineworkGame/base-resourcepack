@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minecraft:block/thin_road_stripe_slab",
+      "y": 90
+    },
+    "type=double": {
+      "model": "minecraft:block/thin_road_stripe",
+      "y": 90
+    },
+    "type=top": {
+      "model": "minecraft:block/thin_road_stripe_slab_top",
+      "y": 90
+    }
+  }
+}

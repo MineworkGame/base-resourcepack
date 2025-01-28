@@ -1,0 +1,20 @@
+{
+  "variants": {
+    "facing=north": [
+      { "model": "block/thin_road_stripe_noise", "weight": 1 },
+      { "model": "block/thin_road_stripe", "weight": 1 }
+    ],
+    "facing=south": [
+      { "model": "block/thin_road_stripe_noise", "y": 180, "weight": 1 },
+      { "model": "block/thin_road_stripe", "y": 180, "weight": 1 }
+    ],
+    "facing=east": [
+      { "model": "block/thin_road_stripe_noise", "y": 90, "weight": 1 },
+      { "model": "block/thin_road_stripe", "y": 90, "weight": 1 }
+    ],
+    "facing=west": [
+      { "model": "block/thin_road_stripe_noise", "y": 270, "weight": 1 },
+      { "model": "block/thin_road_stripe", "y": 270, "weight": 1 }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north": [
+      { "model": "block/thin_road_stripe_side", "weight": 1 }
+    ],
+    "facing=south": [
+      { "model": "block/thin_road_stripe_side", "y": 180, "weight": 1 }
+    ],
+    "facing=east": [
+      { "model": "block/thin_road_stripe_side", "y": 90, "weight": 1 }
+    ],
+    "facing=west": [
+      { "model": "block/thin_road_stripe_side", "y": 270, "weight": 1 }
+    ]
+  }
+}
