@@ -1,6 +1,6 @@
 {
-    "model": {
-      "type": "minecraft:model",
-      "model": "minework:test_item"
-    }
+  "model": {
+    "type": "minecraft:model",
+    "model": "minework:item/test_item"
   }
+}

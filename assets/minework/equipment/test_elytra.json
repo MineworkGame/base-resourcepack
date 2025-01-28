@@ -1,0 +1,10 @@
+{
+    "layers": {
+      "wings": [
+        {
+          "texture": "minework:test_elytra",
+          "use_player_texture": false
+        }
+      ]
+    }
+  }
