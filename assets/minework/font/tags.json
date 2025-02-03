@@ -1,0 +1,10 @@
+{
+    "providers": [
+        {"type": "bitmap","file": "minework:tag/tag_common.png", "ascent": 7.5, "height": 8.5, "chars": ["1"]},
+        {"type": "bitmap","file": "minework:tag/tag_uncommon.png", "ascent": 7.5, "height": 8.5, "chars": ["2"]},
+        {"type": "bitmap","file": "minework:tag/tag_rare.png", "ascent": 7.5, "height": 8.5, "chars": ["3"]},
+        {"type": "bitmap","file": "minework:tag/tag_epic.png", "ascent": 7.5, "height": 8.5, "chars": ["4"]},
+        {"type": "bitmap","file": "minework:tag/tag_legendary.png", "ascent": 7.5, "height": 8.5, "chars": ["5"]},
+        {"type": "bitmap","file": "minework:tag/tag_bound.png", "ascent": 7.5, "height": 8.5, "chars": ["6"]}
+    ]
+}

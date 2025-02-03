@@ -1,10 +1,10 @@
 {
     "layers": {
       "humanoid": [
-        { "texture": "minework:test_set" }
+        { "texture": "minework:rapunzel" }
       ],
       "humanoid_leggings": [
-        { "texture": "minework:test_set" }
+        { "texture": "minework:rapunzel" }
       ]
     }
   }
